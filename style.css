@@ -6,3 +6,9 @@ h1{
 p, li{
     color: #219ebc;
 }
+
+footer{
+    text-align: center;
+    background-color: #023047;
+    color: #ffb703;
+}
